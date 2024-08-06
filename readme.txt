@@ -2,6 +2,7 @@
 # README
 -----------------------
 CarVilla is a one page bootstrap 3 based Car Dealer Automotive website template.
+Free Style CSS used to launch ec2 instance in AWS Cloud
 
 
 Template Info:
